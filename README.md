@@ -1,1 +1,1 @@
-Esse repositório serve para adicionar os exercicios realizados
+Repositório utilizado para colocar os exercicios realizados
